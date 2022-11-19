@@ -47,6 +47,10 @@ main {
   height: 15rem;
 }
 
+.mock-card-container p {
+  margin: 0;
+}
+
 .mock-card {
   position: absolute;
   /* Mock Card Width */
