@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-card-details-form-R1S1HhDG3h](https://www.frontendmentor.io/solutions/interactive-card-details-form-R1S1HhDG3h)
+- Live Site URL: [https://seranela.github.io/interactive-card-details-form/](https://seranela.github.io/interactive-card-details-form/)
 
 ## My process
 
@@ -51,4 +51,4 @@ Adding spaces in credit card numbers for visual formatting and then validating v
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@seranela](https://www.frontendmentor.io/profile/seranela)
