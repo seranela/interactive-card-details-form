@@ -1,0 +1,8 @@
+input:invalid {
+  border: 2px solid var(--color-primary-red);
+  outline: none;
+}
+
+input:invalid ~ .error-message {
+  display: block;
+}
